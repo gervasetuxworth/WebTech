@@ -1,0 +1,7 @@
+ports:
+  - port: 8000
+    onOpen: open-browser
+
+tasks:
+  - name: "Web Server"
+    command: php -S 0.0.0.0:8000
