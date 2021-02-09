@@ -29,13 +29,13 @@ SOFTWARE.
 *** OPTIONS ***/
 
 	// TITLE OF PAGE
-	$title = "List of Files";
+	$title = "1621ICT Web Technologies";
 	
 	// STYLING (light or dark)
 	$color	= "light";
 	
 	// ADD SPECIFIC FILES YOU WANT TO IGNORE HERE
-	$ignore_file_list = array( ".htaccess", "Thumbs.db", ".gitpod.yml", ".DS_Store", "index.php" );
+	$ignore_file_list = array( ".htaccess", "Thumbs.db", ".gitpod.yml", "README.md", ".git", ".DS_Store", "index.php", );
 	
 	// ADD SPECIFIC FILE EXTENSIONS YOU WANT TO IGNORE HERE, EXAMPLE: array('psd','jpg','jpeg')
 	$ignore_ext_list = array( );
